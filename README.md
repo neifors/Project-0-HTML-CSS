@@ -35,7 +35,8 @@ Using this information, we can actually re-implement a front end for Google’s 
             <input type="submit" value="Google Search">
         </form>
     </body>
-</html>```
+</html>
+```
   
 When you open this page in a browser, you should see a (very simple) HTML form. Type in a search query like “Harvard” and click “Google Search”, and you should be taken to Google’s search results page!
 
